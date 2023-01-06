@@ -1,0 +1,77 @@
+.buster {
+    font-style: italic;
+} 
+.konten {
+    text-align: justify;
+}
+html {
+    scroll-behavior: smooth;}
+#top a {
+    padding: 1rem;
+    color: #007bff;
+    position: fixed;
+    right: 1rem;
+    bottom: 1rem;
+}
+#top a:hover {
+    color: #3797ff;
+}
+.w3-round {
+    transition: transform .3s ease;
+}
+.w3-round:hover {
+    transform: scale(1.1);
+}
+a {
+    color:inherit;
+    text-decoration: none;
+}
+/* KONTEN 1 */
+.Konten1 {
+    margin: 50px;
+}
+.konten1 {
+    text-align: justify;
+}
+.sinopsis1 {
+    padding-left: 30px;
+}
+.Video {
+    margin-top: 20px;
+}
+.information1 {
+    text-align: center;
+    padding-top: 10px;
+    background-color: black;
+}
+.kental {
+    display: flex;
+}
+
+/* FOOTER */
+.social {
+    text-align: center;
+    padding-bottom: 10px;
+    color: #007bff;
+    letter-spacing: 10px;
+}
+.social a {
+    font-size: 24px;
+    color: inherit;
+    width: 30px;
+    height: 30px;
+    line-height: 40px;
+    display: inline-block;
+    text-align: center;
+    border-radius: 50%;
+    opacity: 0.75;
+    text-shadow: 3px 3px 10px black;
+}
+.social a:hover {
+    opacity: 1;
+    color: #3797ff;
+}
+.footerlogo {
+    text-align: center;
+    text-shadow: 3px 3px 10px black;
+}
